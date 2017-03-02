@@ -1,8 +1,5 @@
-## v0.1.2
-- Removing bunk copy
-
 ## v0.1.1
-- Updating badges
+- Fixing this changelog, and fixing gpg url.
 
 ## v0.1.0
 - Initial release
